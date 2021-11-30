@@ -72,7 +72,7 @@ button:hover {
 }
 
 /* Heading */
-h3,
+.tittle-section,
 label[for="new-task"] {
   color: #333;
   font-weight: 700;
